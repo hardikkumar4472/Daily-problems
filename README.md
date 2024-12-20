@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
