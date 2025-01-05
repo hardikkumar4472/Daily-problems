@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2358-number-of-ways-to-split-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Bit Manipulation
 |  |
