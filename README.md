@@ -45,20 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0100-same-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0100-same-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0100-same-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0100-same-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
