@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Graph
 |  |
