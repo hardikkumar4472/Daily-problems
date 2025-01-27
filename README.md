@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
