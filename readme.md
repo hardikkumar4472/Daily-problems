@@ -1,0 +1,2 @@
+- **`problemName.cpp`**: C++ code solving the LeetCode problem for the given day.
+- **`explanation.md`**: Detailed explanation of the solution, including approach, algorithm, and time complexity.
