@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hardikkumar4472/Daily-problems/tree/master/1502-construct-k-palindrome-strings) |
