@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/hardikkumar4472/Daily-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardikkumar4472/Daily-problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
