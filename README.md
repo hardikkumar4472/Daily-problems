@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/hardikkumar4472/Daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/hardikkumar4472/Daily-problems/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
