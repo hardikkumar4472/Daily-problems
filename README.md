@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hardikkumar4472/Daily-problems/tree/master/0238-product-of-array-except-self) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
