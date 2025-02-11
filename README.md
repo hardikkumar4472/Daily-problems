@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
+| [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1364-tuple-with-same-product](https://github.com/hardikkumar4472/Daily-problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
