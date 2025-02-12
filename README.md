@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hardikkumar4472/Daily-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikkumar4472/Daily-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Recursion
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikkumar4472/Daily-problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
 ## Design
