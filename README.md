@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikkumar4472/Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hardikkumar4472/Daily-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3483-alternating-groups-ii) |
 ## Simulation
 |  |
 | ------- |
