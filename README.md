@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2228-watering-plants-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikkumar4472/Daily-problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/hardikkumar4472/Daily-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hardikkumar4472/Daily-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/hardikkumar4472/Daily-problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/hardikkumar4472/Daily-problems/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hardikkumar4472/Daily-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/hardikkumar4472/Daily-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/hardikkumar4472/Daily-problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/hardikkumar4472/Daily-problems/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/hardikkumar4472/Daily-problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sliding Window
 |  |
