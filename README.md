@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/hardikkumar4472/Daily-problems/tree/master/2128-reverse-prefix-of-word) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/hardikkumar4472/Daily-problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1170-shortest-common-supersequence) |
