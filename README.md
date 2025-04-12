@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hardikkumar4472/Daily-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hardikkumar4472/Daily-problems/tree/master/0050-powx-n) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hardikkumar4472/Daily-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
