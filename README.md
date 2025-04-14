@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/hardikkumar4472/Daily-problems/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/hardikkumar4472/Daily-problems/tree/master/1876-map-of-highest-peak) |
@@ -589,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hardikkumar4472/Daily-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/hardikkumar4472/Daily-problems/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
