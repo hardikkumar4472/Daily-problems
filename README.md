@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hardikkumar4472/Daily-problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/2478-longest-nice-subarray) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hardikkumar4472/Daily-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
