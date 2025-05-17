@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hardikkumar4472/Daily-problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
