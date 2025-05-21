@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0088-merge-sorted-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikkumar4472/Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
