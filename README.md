@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardikkumar4472/Daily-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
