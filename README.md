@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/hardikkumar4472/Daily-problems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
