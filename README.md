@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hardikkumar4472/Daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0496-next-greater-element-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hardikkumar4472/Daily-problems/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/hardikkumar4472/Daily-problems/tree/master/1656-count-good-triplets) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
