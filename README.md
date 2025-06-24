@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/hardikkumar4472/Daily-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hardikkumar4472/Daily-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hardikkumar4472/Daily-problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/2478-longest-nice-subarray) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hardikkumar4472/Daily-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
