@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0496-next-greater-element-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
