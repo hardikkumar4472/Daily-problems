@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hardikkumar4472/Daily-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0088-merge-sorted-array) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikkumar4472/Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/hardikkumar4472/Daily-problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/hardikkumar4472/Daily-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/hardikkumar4472/Daily-problems/tree/master/0125-valid-palindrome) |
