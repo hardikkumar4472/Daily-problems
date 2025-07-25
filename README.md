@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/hardikkumar4472/Daily-problems/tree/master/0198-house-robber) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Heap (Priority Queue)
 |  |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
+| [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -844,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hardikkumar4472/Daily-problems/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
