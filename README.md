@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hardikkumar4472/Daily-problems/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/hardikkumar4472/Daily-problems/tree/master/0817-design-hashmap) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hardikkumar4472/Daily-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hardikkumar4472/Daily-problems/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
