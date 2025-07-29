@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/hardikkumar4472/Daily-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
+| [0904-leaf-similar-trees](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0975-range-sum-of-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
