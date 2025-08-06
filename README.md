@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hardikkumar4472/Daily-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hardikkumar4472/Daily-problems/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/hardikkumar4472/Daily-problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0118-pascals-triangle) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
