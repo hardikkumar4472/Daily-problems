@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/hardikkumar4472/Daily-problems/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/hardikkumar4472/Daily-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hardikkumar4472/Daily-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
+| [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
