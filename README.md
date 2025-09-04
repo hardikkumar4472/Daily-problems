@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hardikkumar4472/Daily-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/hardikkumar4472/Daily-problems/tree/master/3830-find-closest-person) |
 ## Data Stream
 |  |
 | ------- |
