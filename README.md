@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0328-odd-even-linked-list) |
 | [0817-design-hashmap](https://github.com/hardikkumar4472/Daily-problems/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
