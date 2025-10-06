@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2317-count-collisions-on-a-road](https://github.com/hardikkumar4472/Daily-problems/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hardikkumar4472/Daily-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hardikkumar4472/Daily-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/hardikkumar4472/Daily-problems/tree/master/3194-find-words-containing-character) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hardikkumar4472/Daily-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2317-count-collisions-on-a-road](https://github.com/hardikkumar4472/Daily-problems/tree/master/2317-count-collisions-on-a-road) |
+| [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
