@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/hardikkumar4472/Daily-problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/hardikkumar4472/Daily-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hardikkumar4472/Daily-problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/hardikkumar4472/Daily-problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Memoization
 |  |
 | ------- |
