@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/hardikkumar4472/Daily-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/hardikkumar4472/Daily-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
