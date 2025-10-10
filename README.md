@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/hardikkumar4472/Daily-problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/hardikkumar4472/Daily-problems/tree/master/0455-assign-cookies) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/hardikkumar4472/Daily-problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/hardikkumar4472/Daily-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
