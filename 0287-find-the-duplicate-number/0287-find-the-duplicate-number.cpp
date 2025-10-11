@@ -1,12 +1,24 @@
 class Solution {
 public:
-    int findDuplicate(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        for (int i=1;i<nums.size();i++){
-            if (nums[i-1]==nums[i]){
-                return nums[i];
+    int findDuplicate(std::vector<int>& nums) {
+        int left = 1;
+        int right = nums.size() - 1;
+
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            int count = 0;
+            for (int num : nums) {
+                if (num <= mid) {
+                    count++;
+                }
+            }
+            if (count > mid) {
+                right = mid;
+            } else { 
+                left = mid + 1;
             }
         }
-        return -1;
+
+        return left;
     }
 };
