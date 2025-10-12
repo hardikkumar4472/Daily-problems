@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/hardikkumar4472/Daily-problems/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1677-matrix-diagonal-sum) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hardikkumar4472/Daily-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hardikkumar4472/Daily-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hardikkumar4472/Daily-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hardikkumar4472/Daily-problems/tree/master/2690-house-robber-iv) |
