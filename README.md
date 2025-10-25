@@ -890,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/hardikkumar4472/Daily-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/hardikkumar4472/Daily-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
