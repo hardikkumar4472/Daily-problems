@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hardikkumar4472/Daily-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hardikkumar4472/Daily-problems/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hardikkumar4472/Daily-problems/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/hardikkumar4472/Daily-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikkumar4472/Daily-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/hardikkumar4472/Daily-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/hardikkumar4472/Daily-problems/tree/master/0969-number-of-recent-calls) |
