@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hardikkumar4472/Daily-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Queue
 |  |
 | ------- |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hardikkumar4472/Daily-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/3321-type-of-triangle) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/hardikkumar4472/Daily-problems/tree/master/3830-find-closest-person) |
 ## Data Stream
 |  |
