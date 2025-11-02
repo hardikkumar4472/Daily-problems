@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hardikkumar4472/Daily-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
