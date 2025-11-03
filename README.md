@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikkumar4472/Daily-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1448-maximum-69-number) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Merge Sort
 |  |
 | ------- |
