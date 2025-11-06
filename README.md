@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hardikkumar4472/Daily-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hardikkumar4472/Daily-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hardikkumar4472/Daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/hardikkumar4472/Daily-problems/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -773,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -827,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/hardikkumar4472/Daily-problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/hardikkumar4472/Daily-problems/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -885,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2434-design-a-number-container-system) |
+| [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
