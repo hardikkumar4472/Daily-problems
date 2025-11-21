@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/hardikkumar4472/Daily-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2169-simple-bank-system) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/hardikkumar4472/Daily-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/2478-longest-nice-subarray) |
