@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/hardikkumar4472/Daily-problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0217-contains-duplicate) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
