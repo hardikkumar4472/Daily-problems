@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
+| [1773-count-items-matching-a-rule](https://github.com/hardikkumar4472/Daily-problems/tree/master/1773-count-items-matching-a-rule) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/master/1833-find-the-highest-altitude) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikkumar4472/Daily-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hardikkumar4472/Daily-problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/hardikkumar4472/Daily-problems/tree/master/1773-count-items-matching-a-rule) |
 | [1894-merge-strings-alternately](https://github.com/hardikkumar4472/Daily-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
