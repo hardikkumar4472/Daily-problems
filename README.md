@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hardikkumar4472/Daily-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1078-remove-outermost-parentheses) |
