@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/hardikkumar4472/Daily-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hardikkumar4472/Daily-problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/hardikkumar4472/Daily-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hardikkumar4472/Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/hardikkumar4472/Daily-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/hardikkumar4472/Daily-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/hardikkumar4472/Daily-problems/tree/master/0141-linked-list-cycle) |
