@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/hardikkumar4472/Daily-problems/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/hardikkumar4472/Daily-problems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
