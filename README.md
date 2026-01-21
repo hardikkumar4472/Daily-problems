@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1025-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1025-divisor-game) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1170-shortest-common-supersequence) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Heap (Priority Queue)
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/hardikkumar4472/Daily-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1236-n-th-tribonacci-number) |
@@ -1059,5 +1062,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
