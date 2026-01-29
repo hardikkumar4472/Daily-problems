@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/hardikkumar4472/Daily-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/hardikkumar4472/Daily-problems/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/hardikkumar4472/Daily-problems/tree/master/0817-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hardikkumar4472/Daily-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikkumar4472/Daily-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikkumar4472/Daily-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
