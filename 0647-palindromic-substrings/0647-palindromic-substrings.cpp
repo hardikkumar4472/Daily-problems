@@ -1,26 +1,27 @@
 class Solution {
 public:
-    bool palindrome(string s){
-        int i=0;
-        int j=s.size()-1;
-        while (i<j){
-            if (s[i]!=s[j]){
-                return false;
+    int expandAroundIndex(string &s , int left , int right){
+        int count = 0 ;
+        while(left >= 0 && right < s.size()){
+            if(s[left] == s[right]){
+                count++;
+            }else{
+                break;
             }
-            i++;
-            j--;
+            left--;
+            right++;
         }
-        return true;
+        return count ;
     }
+
     int countSubstrings(string s) {
-        int ct=0;
-        for (int i=0;i<s.length();i++){
-            for (int j=i;j<s.length();j++){
-                if (palindrome(s.substr(i,j-i+1))){
-                    ct++;
-                }
-            }
+        int count = 0 ;
+        for(int i = 0 ; i < s.size() ; i++){
+            int oddCount = expandAroundIndex(s , i , i);
+            count = count + oddCount ;
+            int evenCount = expandAroundIndex(s , i , i+1);
+            count = count + evenCount ;
         }
-        return ct;
+        return count ;
     }
 };
