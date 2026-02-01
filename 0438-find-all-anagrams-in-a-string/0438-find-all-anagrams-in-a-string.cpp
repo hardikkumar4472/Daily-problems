@@ -2,7 +2,9 @@ class Solution {
 public:
     vector<int> findAnagrams(string s, string p) {
         vector<int> res;
-        if (s.length() < p.length()) return res;
+        if (s.length() < p.length()){
+             return res;
+        }
         map<char,int> mp1;
         for (char c : p) {
             mp1[c]++;
