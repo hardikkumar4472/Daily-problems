@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hardikkumar4472/Daily-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hardikkumar4472/Daily-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hardikkumar4472/Daily-problems/tree/master/0455-assign-cookies) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/hardikkumar4472/Daily-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/hardikkumar4472/Daily-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/hardikkumar4472/Daily-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/0713-subarray-product-less-than-k) |
