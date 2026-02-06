@@ -1,37 +1,28 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        vector<int> res;
-        vector<int> circ;
+        vector<int> nums2;
         for (int i = 0; i < nums.size(); i++) {
-            circ.push_back(nums[i]);
+            nums2.push_back(nums[i]);
         }
         for (int i = 0; i < nums.size(); i++) {
-            circ.push_back(nums[i]);
+            nums2.push_back(nums[i]);
         }
-
-        int n = circ.size();
-
-        int i = 0;
-        int j = 1;
-
-        while (i < nums.size()) {
-            while (j < n && j - i < nums.size()) {
-                if (circ[j] > circ[i]) {
-                    res.push_back(circ[j]);
-                    break;
-                }
-                j++;
+        vector<int> ans(nums2.size(), -1);
+        stack<int> s;
+        for (int i = nums2.size() - 1; i >= 0; i--) {
+            while (!s.empty() && s.top() <= nums2[i]) {
+                s.pop();
             }
-
-            if (j - i >= nums.size()) {
-                res.push_back(-1);
+            if (!s.empty()) {
+                ans[i] = s.top();
             }
-
-            i++;
-            j = i + 1;
+            s.push(nums2[i]);
         }
-
-        return res;
+        vector<int> ans2;
+        for (int i=0;i<ans.size()/2;i++){
+            ans2.push_back(ans[i]);
+        }
+        return ans2;
     }
 };
