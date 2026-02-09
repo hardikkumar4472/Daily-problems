@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hardikkumar4472/Daily-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/hardikkumar4472/Daily-problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0780-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/hardikkumar4472/Daily-problems/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/hardikkumar4472/Daily-problems/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hardikkumar4472/Daily-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/hardikkumar4472/Daily-problems/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hardikkumar4472/Daily-problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/hardikkumar4472/Daily-problems/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hardikkumar4472/Daily-problems/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2169-simple-bank-system) |
