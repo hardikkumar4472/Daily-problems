@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/hardikkumar4472/Daily-problems/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hardikkumar4472/Daily-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/hardikkumar4472/Daily-problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hardikkumar4472/Daily-problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/hardikkumar4472/Daily-problems/tree/master/2317-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
