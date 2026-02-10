@@ -1,8 +1,7 @@
 class MyQueue {
 public:
-stack<int> s1,s2;
-    MyQueue() {
-    }
+    stack<int> s1,s2;
+    MyQueue() {}
     
     void push(int x) {
         while (!s1.empty()){
