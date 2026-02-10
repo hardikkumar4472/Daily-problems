@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0707-design-linked-list) |
 | [0817-design-hashmap](https://github.com/hardikkumar4472/Daily-problems/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/hardikkumar4472/Daily-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hardikkumar4472/Daily-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hardikkumar4472/Daily-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/0707-design-linked-list) |
 | [0817-design-hashmap](https://github.com/hardikkumar4472/Daily-problems/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/hardikkumar4472/Daily-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
