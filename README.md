@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hardikkumar4472/Daily-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/hardikkumar4472/Daily-problems/tree/master/1364-tuple-with-same-product) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/hardikkumar4472/Daily-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/hardikkumar4472/Daily-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1078-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/hardikkumar4472/Daily-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/hardikkumar4472/Daily-problems/tree/master/1544-make-the-string-great) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikkumar4472/Daily-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/hardikkumar4472/Daily-problems/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/hardikkumar4472/Daily-problems/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/hardikkumar4472/Daily-problems/tree/master/0969-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/hardikkumar4472/Daily-problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
