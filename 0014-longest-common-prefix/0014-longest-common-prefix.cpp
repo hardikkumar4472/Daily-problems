@@ -1,47 +1,14 @@
 class Solution {
 public:
-    class TrieNode {
-    public:
-        bool endofWord;
-        TrieNode* children[26];
-        int childCount;
-        TrieNode() {
-            endofWord = false;
-            childCount = 0;
-            for (int i = 0; i < 26; i++) {
-                children[i] = nullptr;
-            }
-        }
-    };
-
-    void insert(TrieNode* root, string word) {
-        TrieNode* node = root;
-        for (char c : word) {
-            int index = c - 'a';
-            if (!node->children[index]) {
-                node->children[index] = new TrieNode();
-                node->childCount++;
-            }
-            node = node->children[index];
-        }
-        node->endofWord = true;
-    }
-
     string longestCommonPrefix(vector<string>& strs) {
-        if (strs.empty()) return "";
-        TrieNode* root = new TrieNode();
-        for (string s : strs) insert(root, s);
-        string prefix = "";
-        TrieNode* node = root;
-        while (node && node->childCount == 1 && !node->endofWord) {
-            for (int i = 0; i < 26; i++) {
-                if (node->children[i]) {
-                    prefix += (char)('a' + i);
-                    node = node->children[i];
-                    break;
-                }
-            }
+        sort(strs.begin(), strs.end());
+        string s = "";
+        int i = 0, length = strs.size();
+        while (i < strs[0].length()){
+            if (strs[0][i] == strs[length-1][i]) s += strs[0][i];
+            else break;
+            i++;
         }
-        return prefix;
+        return s;
     }
 };
