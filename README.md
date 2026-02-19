@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hardikkumar4472/Daily-problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0724-find-pivot-index) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/hardikkumar4472/Daily-problems/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hardikkumar4472/Daily-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/hardikkumar4472/Daily-problems/tree/master/0820-find-eventual-safe-states) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/hardikkumar4472/Daily-problems/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1677-matrix-diagonal-sum) |
