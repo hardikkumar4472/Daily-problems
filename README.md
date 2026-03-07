@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hardikkumar4472/Daily-problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/hardikkumar4472/Daily-problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1677-matrix-diagonal-sum) |
