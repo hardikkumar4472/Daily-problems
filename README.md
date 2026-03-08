@@ -1145,4 +1145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
