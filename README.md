@@ -1153,4 +1153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hardikkumar4472/Daily-problems/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/hardikkumar4472/Daily-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
