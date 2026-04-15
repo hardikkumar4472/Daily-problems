@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/2478-longest-nice-subarray) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/hardikkumar4472/Daily-problems/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hardikkumar4472/Daily-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
