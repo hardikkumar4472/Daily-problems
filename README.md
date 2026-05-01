@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/hardikkumar4472/Daily-problems/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0407-trapping-rain-water-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/hardikkumar4472/Daily-problems/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/hardikkumar4472/Daily-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/hardikkumar4472/Daily-problems/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/hardikkumar4472/Daily-problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/hardikkumar4472/Daily-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hardikkumar4472/Daily-problems/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/hardikkumar4472/Daily-problems/tree/master/0396-rotate-function) |
 | [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/hardikkumar4472/Daily-problems/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/hardikkumar4472/Daily-problems/tree/master/0797-rabbits-in-forest) |
