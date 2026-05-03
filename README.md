@@ -727,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hardikkumar4472/Daily-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -872,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1524-string-matching-in-an-array) |
