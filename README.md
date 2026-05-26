@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/hardikkumar4472/Daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikkumar4472/Daily-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-minimum-penalty-for-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/hardikkumar4472/Daily-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/hardikkumar4472/Daily-problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hardikkumar4472/Daily-problems/tree/master/3243-count-the-number-of-powerful-integers) |
