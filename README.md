@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2574-left-and-right-sum-differences](https://github.com/hardikkumar4472/Daily-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hardikkumar4472/Daily-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/hardikkumar4472/Daily-problems/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/hardikkumar4472/Daily-problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2576-minimum-penalty-for-a-shop](https://github.com/hardikkumar4472/Daily-problems/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2714-left-and-right-sum-differences) |
