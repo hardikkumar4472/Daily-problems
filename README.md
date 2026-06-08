@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardikkumar4472/Daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2145-grid-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/hardikkumar4472/Daily-problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hardikkumar4472/Daily-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/hardikkumar4472/Daily-problems/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/hardikkumar4472/Daily-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2228-watering-plants-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2228-watering-plants-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1091,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hardikkumar4472/Daily-problems/tree/master/2048-build-array-from-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/hardikkumar4472/Daily-problems/tree/master/2169-simple-bank-system) |
 | [2228-watering-plants-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/master/2265-partition-array-according-to-given-pivot) |
