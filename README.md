@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hardikkumar4472/Daily-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/hardikkumar4472/Daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 ## Stack
 | Problem Name | Difficulty |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hardikkumar4472/Daily-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/hardikkumar4472/Daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/hardikkumar4472/Daily-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/hardikkumar4472/Daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
