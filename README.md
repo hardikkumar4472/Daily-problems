@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/hardikkumar4472/Daily-problems/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2128-reverse-prefix-of-word](https://github.com/hardikkumar4472/Daily-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/hardikkumar4472/Daily-problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
