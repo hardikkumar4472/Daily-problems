@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/hardikkumar4472/Daily-problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikkumar4472/Daily-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/hardikkumar4472/Daily-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/hardikkumar4472/Daily-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikkumar4472/Daily-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hardikkumar4472/Daily-problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
@@ -1197,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/hardikkumar4472/Daily-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3001-apply-operations-to-maximize-score](https://github.com/hardikkumar4472/Daily-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/hardikkumar4472/Daily-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
