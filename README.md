@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hardikkumar4472/Daily-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1677-matrix-diagonal-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1767-design-front-middle-back-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/1767-design-front-middle-back-queue) |
 | [1773-count-items-matching-a-rule](https://github.com/hardikkumar4472/Daily-problems/tree/master/1773-count-items-matching-a-rule) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hardikkumar4472/Daily-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/hardikkumar4472/Daily-problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
