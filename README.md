@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/hardikkumar4472/Daily-problems/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/hardikkumar4472/Daily-problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hardikkumar4472/Daily-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hardikkumar4472/Daily-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/hardikkumar4472/Daily-problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/hardikkumar4472/Daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardikkumar4472/Daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/hardikkumar4472/Daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/hardikkumar4472/Daily-problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hardikkumar4472/Daily-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1251,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
