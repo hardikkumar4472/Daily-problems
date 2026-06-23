@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/hardikkumar4472/Daily-problems/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/hardikkumar4472/Daily-problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/hardikkumar4472/Daily-problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/hardikkumar4472/Daily-problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/hardikkumar4472/Daily-problems/tree/master/0326-power-of-three) |
