@@ -1,20 +1,22 @@
 class Solution {
 public:
+    int next(int n){
+        int temp=n;
+        int sum=0;
+        while(temp>0){
+            int rem=temp%10;
+            sum+=rem*rem;
+            temp/=10;
+        }
+        return sum;
+    }
     bool isHappy(int n) {
-        if(n==7 || n==1){
-            return true;
+        int slow=next(n);
+        int fast=next(next(n));
+        while (slow!=fast) {
+            slow= next(slow);
+            fast=next(next(fast));
         }
-        else if(n<10){
-            return false;
-        }
-        else{
-            int sum =0;
-            while(n>0){
-                int temp = n%10;
-                sum += temp *temp;
-                n/=10;
-            }
-            return isHappy(sum);
-        }
+        return slow==1;
     }
 };
