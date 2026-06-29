@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hardikkumar4472/Daily-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkumar4472/Daily-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2048-build-array-from-permutation](https://github.com/hardikkumar4472/Daily-problems/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2107-find-unique-binary-string) |
 | [2126-destroying-asteroids](https://github.com/hardikkumar4472/Daily-problems/tree/main/2126-destroying-asteroids/) | Medium |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hardikkumar4472/Daily-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hardikkumar4472/Daily-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/hardikkumar4472/Daily-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
