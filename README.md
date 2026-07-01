@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/hardikkumar4472/Daily-problems/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/hardikkumar4472/Daily-problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/hardikkumar4472/Daily-problems/tree/master/0073-set-matrix-zeroes) |
