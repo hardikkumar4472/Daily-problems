@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/hardikkumar4472/Daily-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/hardikkumar4472/Daily-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/hardikkumar4472/Daily-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/hardikkumar4472/Daily-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/hardikkumar4472/Daily-problems/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0556-next-greater-element-iii) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/hardikkumar4472/Daily-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/hardikkumar4472/Daily-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/hardikkumar4472/Daily-problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0643-maximum-average-subarray-i) |
