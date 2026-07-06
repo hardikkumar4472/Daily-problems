@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1288-remove-covered-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hardikkumar4472/Daily-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/hardikkumar4472/Daily-problems/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1364-tuple-with-same-product](https://github.com/hardikkumar4472/Daily-problems/tree/master/1364-tuple-with-same-product) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/hardikkumar4472/Daily-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hardikkumar4472/Daily-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
