@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/hardikkumar4472/Daily-problems/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/hardikkumar4472/Daily-problems/tree/master/0860-design-circular-queue) |
+| [0867-transpose-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/hardikkumar4472/Daily-problems/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/hardikkumar4472/Daily-problems/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/hardikkumar4472/Daily-problems/tree/master/0904-fruit-into-baskets) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hardikkumar4472/Daily-problems/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/hardikkumar4472/Daily-problems/tree/master/0854-making-a-large-island) |
+| [0867-transpose-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/hardikkumar4472/Daily-problems/tree/master/1396-count-servers-that-communicate) |
@@ -1146,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/hardikkumar4472/Daily-problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/hardikkumar4472/Daily-problems/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/main/0867-transpose-matrix/) | Easy |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/hardikkumar4472/Daily-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/hardikkumar4472/Daily-problems/tree/master/2048-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/hardikkumar4472/Daily-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
