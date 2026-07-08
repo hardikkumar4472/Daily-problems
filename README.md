@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/hardikkumar4472/Daily-problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hardikkumar4472/Daily-problems/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/hardikkumar4472/Daily-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/hardikkumar4472/Daily-problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/hardikkumar4472/Daily-problems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/hardikkumar4472/Daily-problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/hardikkumar4472/Daily-problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/hardikkumar4472/Daily-problems/tree/master/0768-partition-labels) |
