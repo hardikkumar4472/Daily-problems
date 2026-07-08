@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/hardikkumar4472/Daily-problems/tree/master/1063-best-sightseeing-pair) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/hardikkumar4472/Daily-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/hardikkumar4472/Daily-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1288-remove-covered-intervals](https://github.com/hardikkumar4472/Daily-problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hardikkumar4472/Daily-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/hardikkumar4472/Daily-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/hardikkumar4472/Daily-problems/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/hardikkumar4472/Daily-problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/hardikkumar4472/Daily-problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/hardikkumar4472/Daily-problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/hardikkumar4472/Daily-problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
