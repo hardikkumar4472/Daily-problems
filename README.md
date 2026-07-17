@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hardikkumar4472/Daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hardikkumar4472/Daily-problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hardikkumar4472/Daily-problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hardikkumar4472/Daily-problems/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/hardikkumar4472/Daily-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/hardikkumar4472/Daily-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/hardikkumar4472/Daily-problems/tree/master/2915-count-of-interesting-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-zero-array-transformation-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3643-zero-array-transformation-ii) |
@@ -953,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hardikkumar4472/Daily-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -1103,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/hardikkumar4472/Daily-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hardikkumar4472/Daily-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hardikkumar4472/Daily-problems/tree/master/2690-house-robber-iv) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
 |  |
@@ -1260,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/hardikkumar4472/Daily-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/hardikkumar4472/Daily-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hardikkumar4472/Daily-problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/3321-type-of-triangle) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hardikkumar4472/Daily-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1290,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/hardikkumar4472/Daily-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hardikkumar4472/Daily-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikkumar4472/Daily-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Shortest Path
@@ -1334,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hardikkumar4472/Daily-problems/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/hardikkumar4472/Daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Game Theory
 |  |
 | ------- |
