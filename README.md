@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hardikkumar4472/Daily-problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/hardikkumar4472/Daily-problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/hardikkumar4472/Daily-problems/tree/master/3430-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hardikkumar4472/Daily-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/hardikkumar4472/Daily-problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hardikkumar4472/Daily-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hardikkumar4472/Daily-problems/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/hardikkumar4472/Daily-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3797-design-spreadsheet](https://github.com/hardikkumar4472/Daily-problems/tree/master/3797-design-spreadsheet) |
@@ -1331,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/hardikkumar4472/Daily-problems/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hardikkumar4472/Daily-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/hardikkumar4472/Daily-problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Quickselect
 |  |
 | ------- |
