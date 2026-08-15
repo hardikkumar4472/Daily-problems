@@ -1,34 +1,34 @@
 class Solution {
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        // int n=edges.size();
         vector<vector<int>> adj(n);
+
+        //Adjacency List
         for (int i=0;i<edges.size();i++){
             int u=edges[i][0];
             int v=edges[i][1];
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
-        vector<int> vis(n,0);
-        queue<int> q;
-        q.push(source);
-        vis[source]=1;
-        while (!q.empty()){
-            int node=q.front();
-            q.pop();
-            if (node==destination){
-                return true;
-            }
-            for (int i=0;i<adj[node].size();i++){
-                int nei=adj[node][i];
-                if (!vis[nei]){
-                    vis[nei]=1;
-                    q.push(nei);
+            //BFS
+            queue<int> q;
+            vector<bool> vis(n,false);
+            q.push(source);
+            vis[source]=true;
+            while(!q.empty()){
+                int front=q.front();
+                q.pop();
+                if(front==destination){
+                    return true;
                 }
-            }
+                for (int i=0;i<adj[front].size();i++){
+                    int nei=adj[front][i];
+                    if(!vis[nei]){
+                        q.push(nei);
+                        vis[nei]=true;
+                    }
+                }
         }
-        return false;
-
-        
+        return false; 
     }
 };
