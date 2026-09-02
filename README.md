@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/hardikkumar4472/Daily-problems/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3863-power-grid-maintenance](https://github.com/hardikkumar4472/Daily-problems/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -1295,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/hardikkumar4472/Daily-problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3830-find-closest-person](https://github.com/hardikkumar4472/Daily-problems/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikkumar4472/Daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hardikkumar4472/Daily-problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Data Stream
 |  |
 | ------- |
